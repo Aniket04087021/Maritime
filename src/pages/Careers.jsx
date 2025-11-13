@@ -139,7 +139,7 @@ const Careers = () => {
         </div>
       </section>
 
-      <section className="benefits-section">
+      <section id="benefits" className="benefits-section">
         <header>
           <h2>Why Navigate with Maritime Solutions Ltd ?</h2>
           <p>We invest in the people behind the mission—on deck, on shore, and in the cloud.</p>
@@ -154,7 +154,7 @@ const Careers = () => {
         </div>
       </section>
 
-      <section className="life-section">
+      <section id="life" className="life-section">
         <div className="life-section__content">
           <h2>Life at Maritime Solutions Ltd</h2>
           <p>
